@@ -1,0 +1,8 @@
+package seleniumTutorial;
+
+public class findElementLocator {
+	
+	public static void main (String []args) {
+		
+	}
+}
